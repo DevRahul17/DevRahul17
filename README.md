@@ -1,7 +1,10 @@
 ![logo](https://github.com/DevRahul17/DevRahul17/blob/main/images.jpg)
 
-<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DevRahul17.DevRahul17" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+Everyone!+👋🧑‍💻☕;+I'm+Rahul+Kumar!;" />
+</h1>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 
