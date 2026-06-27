@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java,DSA Fundamentals And Frontend**
 
-- 💬 Ask me about **C Language**
+- 💬 Ask me about **Java, C & C++**
 
 - 📫 How to reach me **rahulkumar906960@gmail.com**
 
