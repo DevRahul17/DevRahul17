@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rahulkumar906960@gmail.com**
 
-- ⚡ My Hobbies And Interest in **Cricket And Movies**
+- ⚡ My Hobbies And Interest in ***Cricket And Movies***
 
 <!-- Snake Game Repo View -->
 
