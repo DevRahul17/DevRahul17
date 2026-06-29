@@ -18,7 +18,7 @@
 
 - ⚡ My Hobbies And Interest in ***Cricket And Movies***
 
-<!-- Snake Game Repo View -->
+<!--- Snake Game Repo View --->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
