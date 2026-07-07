@@ -10,19 +10,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrahul17&label=Profile%20views&color=0e75b6&style=flat" alt="devrahul17" /> </p>
 
-- 🌱 I’m currently learning **Java,DSA Fundamentals And Frontend**
-
-- 💬 Ask me about **Java, C & C++**
-
-- 📫 How to reach me **rahulkumar906960@gmail.com**
-
-- ⚡ My Hobbies And Interest in ***Cricket And Movies***
+- 🌱 Currently learning **Java, Data Structures & Algorithms, Frontend Development**
+- 💻 Interested in **Backend Development & Problem Solving**
+- 💬 Ask me about **Java, C, C++, DSA**
+- 📫 Reach me at **rahulkumar906960@gmail.com**
+- ⚡ Fun Fact: I enjoy solving coding problems, watching cricket and movie
 
 <!--- Snake Game Repo View --->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+## 🎯 2026 Goals:
+
+- ✅ Master Java
+- ✅ Complete DSA
+- 🔄 Learn Spring Boot
+- 🔄 Build Full Stack Projects
+- 🔄 Contribute to Open Source
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
