@@ -1,5 +1,4 @@
-![logo](https://github.com/DevRahul17/DevRahul17/blob/main/images.jpg)
-
+<img src="https://raw.githubusercontent.com/DevRahul17/DevRahul17/main/images.jpg" width="100%" alt="Banner" />
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DevRahul17.DevRahul17" />
 
