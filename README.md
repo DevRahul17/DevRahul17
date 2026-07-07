@@ -1,5 +1,6 @@
 ![logo](https://github.com/DevRahul17/DevRahul17/blob/main/images.jpg)
 
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DevRahul17.DevRahul17" />
 
 <h1 align="center">
@@ -33,6 +34,12 @@
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,firebase,vscode,postman,html,css,tailwind" />
+</p>
+
 # 📊 GitHub Stats:
 
 <div align=center>
@@ -48,6 +55,14 @@
 
 <br/>
 
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=DevRahul17&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+## 📈 Contribution Graph
+
+[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRahul17&theme=tokyo-night)](https://github.com/DevRahul17)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
