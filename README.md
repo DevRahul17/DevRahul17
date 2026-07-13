@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrahul17&label=Profile%20views&color=0e75b6&style=flat" alt="devrahul17" /> </p>
 
-- 🌱 Currently learning **Data Structures & Algorithms, Frontend Development**
+- 🌱 Currently learning **Data Structures & Algorithms And Web Development**
 - 💻 Interested in **Backend Development & Problem Solving**
 - 💬 Ask me about **Java, C, C++, DSA**
 - 📫 Reach me at **rahulkumar906960@gmail.com**
