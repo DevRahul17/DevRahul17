@@ -12,7 +12,7 @@
 
 - 🌱 Currently learning **Data Structures & Algorithms And Web Development**
 - 💻 Interested in **Backend Development & Problem Solving**
-- 💬 Ask me about **Java, C, C++, DSA**
+- 💬 Ask me about **Java, C, C++ and DSA**
 - 📫 Reach me at **rahulkumar906960@gmail.com**
 - ⚡ Fun Fact: I enjoy solving coding problems, watching cricket and movie
 
