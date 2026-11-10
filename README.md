@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=600&height=70&lines=Welcome+Everyone!+👋🧑‍💻☕;+I'm+Rahul+Kumar!" />
 </h1>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrahul17&label=Profile%20views&color=0e75b6&style=flat" alt="devrahul17" /> </p>
 
