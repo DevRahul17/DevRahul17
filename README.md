@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif ">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devrahul17&label=Profile%20views&color=0e75b6&style=flat" alt="devrahul17" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devrahul17&label=Profile%20views&color=0e75b6&style=flat" alt="devrahul17"/> </p>
 
 - 🌱 Currently learning **Data Structures & Algorithms And Web Development**
 - 💻 Interested in **Backend Development & Problem Solving**
